@@ -4,7 +4,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import Select
 import time
 
-schoolWebURL = 'https://172.31.14.49/srun_portal_success?ac_id=1&theme=pro'   #这是俺的网站，请替换成你自己的校园网登录网站，一般都是这个格式的
+schoolWebURL = 'https://172.31.14.49/srun_portal_success?ac_id=1&theme=pro'   #请替换成自己的校园网登录网站
 
 username = '1824272506'   #你的账号
 password = 'Saya114514'    #你的密码
