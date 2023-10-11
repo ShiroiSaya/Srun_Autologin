@@ -11,7 +11,9 @@
 ```
 # 环境要求
 1.你得有Python，恩，必须有。
+
 2.确保您的系统上安装了Google Chrome浏览器（其他的也行，推荐Google）
+
 因为用了
 ```
 chrome_options = Options()
